@@ -7,4 +7,10 @@ public class Demo2 {
 
 	}
 
+
+	public void divid(int a, int b) {
+		System.out.println(1/2);
+	}
+	
+	
 }
